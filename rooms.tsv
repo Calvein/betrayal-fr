@@ -10,24 +10,27 @@ Catacombs	Catacombes	Vous pouvez tenter un jet de Santé mentale (Sanity) de 6+ 
 Chapel	Chapelle	Si vous terminez votre tour ici, gagnez 1 Santé mentale (Sanity).
 Charred room	Pièce carbonisée
 Chasm	Gouffre	Vous pouvez tenter 1 jet de Vitesse (Speed) de 3+ pour traverser. Si vous échouez, vous arrêtez votre déplacement.
-Coal chute	Chute de charbon	Un chemin qui mène au Palier du sous-sol
+Coal chute	Conduit à charbon	Un chemin qui mène au Palier du sous-sol
 Collapsed room	Pièce effondrée Vous devez tenter un jet de Vitesse (Speed) de 5+ pour éviter de tomber. Si vous échouez, piochez une tuile de sous-sol et mettez là en jeu. Vous tombez dedans et prenez 1 dé de dommages physiques.
-Conservatory	Conservatoire
+Conservatory	Véranda
 Creaky hallway	Vestibule grinçant
 Crypt	Crypte	Si vous terminez votre tour ici, prenez 1 dé de dommages mentaux.
 Dining room	Salle à manger
-Dusty hallway	Vestibule poussiéreux	Si vous terminez votre tour ici, prenez 1 point de dommages physiques.
+Dusty hallway	Couloir poussiéreux	Si vous terminez votre tour ici, prenez 1 point de dommages physiques.
+Entrance Hall	Hall d'entrée
+Foyer	Vestibule
 Furnace room	Pièce de la chaudière
 Gallery	Gallerie	Vous pouvez choisir de tomber dans la Salle de bal. Si vous le faites, prenez 1 dé de dommages physiques.
 Game room	Salle de jeu
 Gardens	Jardins
+Grand staircase	Grand escalier
 Graveyard	Cimetière	Lorsque vous sortez, vous devez tenter un jet de Santé mentale (Sanity) de 4+. Si vous échouez, perdez 1 Connaissance (Knowledge).
 Gymnasium	Gymnase	Si sous terminez votre tour ici, gagner 1 Vitesse (Speed).
-Junk room	Pièce à bric-à-brac	Lorsque vous sortez, vous devez tenter un jet de Puissance (Might) de 3+. Si vous échouez, perdez 1 Vitesse.
+Junk room	Débarras	Lorsque vous sortez, vous devez tenter un jet de Puissance (Might) de 3+. Si vous échouez, perdez 1 Vitesse.
 Kitchen	Cuisine
 Larder	Cellier	Si vous terminez votre tour ici, gagnez 1 Puissance (Might).
 Library	Bibliothèque	Si vous terminez votre tour ici, gagnez 1 Connaissance (Knowledge).
-Master bedroom	Chambre à coucher principale
+Master bedroom	Chambre principale
 Mystic elevator	Ascenseur mystique	"Lancez 2 dés et déplacez cette pièce à coté de d'importe quelle porte ouverte de:
 4 : N'importe quel niveau.
 3 : Etage
@@ -37,12 +40,12 @@ Mystic elevator	Ascenseur mystique	"Lancez 2 dés et déplacez cette pièce à c
 Operating laboratory	Laboratoire d'opération
 Organ room	Pièce de l'orgue
 Patio	Patio
-Pentagram chamber	Chambre au pentagrame	Lorsque vous sortez, vous devez tenter un jet de Connaissance (Knowledge) de 4+. Si vous échouez, perdez 1 Santé mentale (Sanity).
+Pentagram chamber	Chambre au pentacle	Lorsque vous sortez, vous devez tenter un jet de Connaissance (Knowledge) de 4+. Si vous échouez, perdez 1 Santé mentale (Sanity).
 Research laboratory	Laboratoire de recherches
 Servant's quarters	Quartiers des domestiques
 Stairs from basement	Escaliers du sous-sol Mène au Foyer.
 Statuary corridor	Corridor aux Statues
-Storeroom	Débarras
+Storeroom	Reserve
 Tower	Tour	Vous pouvez tenter un jet de Puissance (Might) de 3+ pour traverser. Si vous échouez, vous arrêtez votre déplacement.
 Underground lake	Lac souterrain
 Upper landing	Palier de l'étage
