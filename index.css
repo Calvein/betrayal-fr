@@ -1,0 +1,34 @@
+*, *:before, *:after {
+  box-sizing: border-box
+}
+
+body {
+  padding: 20px;
+  background: #333;
+  line-height: 1.3;
+  font-size: 1.3em;
+  color: white;
+}
+
+input {
+  display: block;
+  width: 100%;
+  height: 40px;
+  padding: 0 10px;
+  border: none;
+}
+
+/* Room template */
+.room-title {
+  margin: 20px 0 0;
+}
+
+.room-subtitle {
+  margin: 0;
+  font-style: italic;
+  font-size: 1.3em;
+}
+
+.room-text {
+  white-space: pre-line;
+}

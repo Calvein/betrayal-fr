@@ -1,0 +1,12 @@
+{
+  "name": "betrayal-fr",
+  "version": "1.0.0",
+  "description": "Translation of Betrayal at House on the Hill in French",
+  "main": "index.js",
+  "repository": {},
+  "author": "Calvein <calvein@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "normalize.css": "^5.0.0"
+  }
+}
