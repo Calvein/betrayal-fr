@@ -45,8 +45,14 @@ const addDataToList = (data) => {
   allData = allData.concat(data)
 }
 
-d3.tsv('rooms.tsv', (err, data) => {
-  // Add type
-  data.forEach((d) => d.type = 'room')
-  addDataToList(data)
-})
+fetch('rooms.tsv')
+  .then((body) => body.text())
+  .then((text) => {
+    const data = d3.tsvParse(text, (d) => {
+      // Add type
+      d.type = 'room'
+      return d
+    })
+
+    addDataToList(data)
+  })
